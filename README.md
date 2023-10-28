@@ -26,7 +26,7 @@ If you are interested, email me at alan.kluegel@uky.edu and I will create a vers
 
 Once you have your very own copy, you can choose to change, add, or remove various features. This includes:
 
-* Changing the references to specific state laws to whichever state you choose. (As of right now I only have KY, DC, and IL, but I am more than happy to work with you to add your state corporate law to the master file.)
+* Changing the references to specific state laws to whichever state you choose. (As of right now I have KY, DC, WI, and IL, but I am more than happy to work with you to add your state corporate law to the master file.)
 * Adding or removing particular cases.
 * Including in the text any practice problems you might want students to work on.
 * Introducing particular chapters with a glossary of terms. (I am currently working on this feature.)
